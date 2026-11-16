@@ -17,3 +17,6 @@
 * **Framework:** Flutter (Dart)
 * **Target Platform:** Android (Target SDK 36)
 * **Local Storage:** On-device local storage / assets
+
+Disclaimer
+Discovery Workshop is an independent reference application and is not affiliated with, endorsed by, or sponsored by Land Rover or any vehicle manufacturer. All repair procedures and technical notes are provided for informational purposes only—always follow proper workshop safety protocols, manufacturer torque specifications, and jack-stand/lifting precautions when working on a vehicle.
